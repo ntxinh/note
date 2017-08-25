@@ -67,6 +67,12 @@ $ youtube-dl -o - BaW_jenozKc
 
 # Lynda:
 ```
+Account:
+ID: 1506028
+PIN: 1234
+Link Register: http://www.akronlibrary.org/account/library-card
+
+
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
 ID: 29065028874451
 PIN: 0975190591
