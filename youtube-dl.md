@@ -70,7 +70,16 @@ $ youtube-dl -o - BaW_jenozKc
 Account:
 ID: 1506028
 PIN: 1234
-Link Register: http://www.akronlibrary.org/account/library-card
+
+Link Register: http://www.akronlibrary.org
+-> Account -> Library Card -> Apply for an Online Library Card
+-> https://catalog.akronlibrary.org/selfreg
+Street Address: apt 2 7 th street
+City: Arkon
+Zip Code: 44223
+Phone: http://www.fakenamegenerator.com
+-> Follow instruction
+
 
 
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
