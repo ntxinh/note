@@ -65,6 +65,12 @@ $ youtube-dl -o "C:/MyVideos/%(series)s/%(season_number)s - %(season)s/%(episode
 $ youtube-dl -o - BaW_jenozKc
 ```
 
+# TeamTreeHouse
+```
+Username: nguoisechia.com@binnary.com
+Pass: nguoisechia
+```
+
 # Lynda:
 ```
 Account:
@@ -79,8 +85,7 @@ City: Arkon
 Zip Code: 44223
 Phone: http://www.fakenamegenerator.com
 -> Follow instruction
-
-
+-> Sign in with your organization portal
 
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
 ID: 29065028874451
