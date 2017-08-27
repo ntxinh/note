@@ -99,11 +99,11 @@ Library Card PIN: 1234
 
 Account 2:
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
-ID: 29065028874451
-PIN: 0975190591
+ID: 1506467
+PIN: 123456
 
 Account 3:
-https://www.lynda.com/portal/patron?o...
+https://www.lynda.com/portal/patron?org=akronlibrary.org&triedlogout=true
 Library Card Number: 1503278
 Library Card PIN: 12358
 ```
