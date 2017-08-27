@@ -73,9 +73,9 @@ Pass: nguoisechia
 
 # Lynda:
 ```
-Account:
-ID: 1506028
-PIN: 1234
+Account 1:
+Library Card Number: 1506028
+Library Card PIN: 1234
 
 Link Register: http://www.akronlibrary.org
 -> Account -> Library Card -> Apply for an Online Library Card
@@ -87,6 +87,7 @@ Phone: http://www.fakenamegenerator.com
 -> Follow instruction
 -> Sign in with your organization portal
 
+Account 2:
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
 ID: 29065028874451
 PIN: 0975190591
