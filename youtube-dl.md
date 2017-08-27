@@ -73,10 +73,7 @@ Pass: nguoisechia
 
 # Lynda:
 ```
-Account 1:
-Library Card Number: 1506028
-Library Card PIN: 1234
-
+// Register
 Link Register: http://www.akronlibrary.org
 -> Account -> Library Card -> Apply for an Online Library Card
 -> https://catalog.akronlibrary.org/selfreg
@@ -86,14 +83,29 @@ Zip Code: 44223
 Phone: http://www.fakenamegenerator.com
 -> Follow instruction
 -> Sign in with your organization portal
+```
+
+```
+// Download:
+https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?utm_source=chrome-app-launcher-info-dialog
+youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.com/Java-tutorials/RESTful-Service-JAX-RS-2-0/574687-2.html --write-sub -o "/home/xinhnguyen/Videos/%(playlist)s/%(chapter_number)s. %(chapter)s/%(playlist_index)s. %(title)s.%(ext)s"
+```
+
+```
+// Account
+Account 1:
+Library Card Number: 1506028
+Library Card PIN: 1234
 
 Account 2:
 https://www.lynda.com/portal/sip?org=calgarylibrary.ca
 ID: 29065028874451
 PIN: 0975190591
-https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?utm_source=chrome-app-launcher-info-dialog
 
-youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.com/Java-tutorials/RESTful-Service-JAX-RS-2-0/574687-2.html --write-sub -o "/home/xinhnguyen/Videos/%(playlist)s/%(chapter_number)s. %(chapter)s/%(playlist_index)s. %(title)s.%(ext)s"
+Account 3:
+https://www.lynda.com/portal/patron?o...
+Library Card Number: 1503278
+Library Card PIN: 12358
 ```
 
 # Pluralsight
