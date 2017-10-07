@@ -22,3 +22,18 @@ ALTER TABLE vsys.cities AUTO_INCREMENT=3000
 - There is another explanation from the real world:
 + A book belongs to an owner, and an owner can own multiple books. But the book can exist also without the owner and it can change the owner. The relationship between a book and an owner is a non-identifying relationship.
 + A book however is written by an author, and the author could have written multiple books. But the book needs to be written by an author it cannot exist without an author. Therefore the relationship between the book and the author is an identifying relationship.
+
+# Drop all table ignore foreign key
+```
+SET FOREIGN_KEY_CHECKS = 0;
+SET @tables = NULL;
+SELECT GROUP_CONCAT(table_schema, '.', table_name) INTO @tables
+  FROM information_schema.tables
+  WHERE table_schema = 'tech_bridge_market'; -- specify DB name here.
+
+SET @tables = CONCAT('DROP TABLE ', @tables);
+PREPARE stmt FROM @tables;
+EXECUTE stmt;
+DEALLOCATE PREPARE stmt;
+SET FOREIGN_KEY_CHECKS = 1;
+```
