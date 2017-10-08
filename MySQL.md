@@ -1,5 +1,15 @@
 # Create db from console
+```
 create database vsys default character set utf8 default collate utf8_general_ci;
+or
+CREATE SCHEMA `skeleton` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+```
+
+# Create username
+create user 'userName'@'localhost' identified by 'somePassword';
+
+# Grant user
+grant all on skeleton.* to 'userName'@'localhost';
 
 # Excute file sql from console
 Method 1: From MYSQL
