@@ -49,30 +49,36 @@ Bốn thứ cần học:
 - Học để biết cách chung sống với người khác
 - Học để được sống là chính mình.
 
-Nếu không điên, đừng tỏ ra… bất bình thường!
+- Nếu không điên, đừng tỏ ra… bất bình thường!
 
 Ba phương cách xả stress tận gốc:
 - Kết bạn tâm giao (không phải bạn để chơi bời)
 - Xài bộ não thật hiệu quả
 - Giải phóng năng lượng và cảm xúc qua hoạt động thể thao và nghệ thuật.
 
-Hãy tận dụng thời gian, tuổi trẻ để suy nghĩ nghiêm túc về bản thân, định hướng cho tương lai, làm những việc to lớn. Đây là một việc không dễ dàng, nhưng hãy can đảm thực hiện. Một người có khát khao lớn, nguồn năng lượng dồi dào nhất thiết phải có cái đầu khôn ngoan, tỉnh táo, tự chủ để không bị hoang mang rối loạn hay dụ dỗ, kích động.
+- Hãy tận dụng thời gian, tuổi trẻ để suy nghĩ nghiêm túc về bản thân, định hướng cho tương lai, làm những việc to lớn. Đây là một việc không dễ dàng, nhưng hãy can đảm thực hiện. Một người có khát khao lớn, nguồn năng lượng dồi dào nhất thiết phải có cái đầu khôn ngoan, tỉnh táo, tự chủ để không bị hoang mang rối loạn hay dụ dỗ, kích động.
 
-Năng lực nằm ở cánh tay chứ không phải nằm ở tấm bằng ts.
-Miếng phomat có sẵn là miếng phomat nằm trên bẫy.
-Để đạt được đích không bao giờ có một con đường
+- Năng lực nằm ở cánh tay chứ không phải nằm ở tấm bằng ts.
 
-Đừng chọn 1 hoặc 2 mà hãy chọn tất cả
-Khi bạn từ bỏ là lúc cuộc chơi kết thúc
-Không bao giờ có 1 công thức chung cho tất cả
-Khi 1 cánh cửa đóng lại thì có hàng ngàn cánh cửa khác mở ra
-Trước khi từ bỏ hãy nghĩ về lý do mình bắt đầu
+- Miếng phomat có sẵn là miếng phomat nằm trên bẫy.
 
-life is not that bad it really doesn't matter... it's not just the right time
-just becase it isn't happening here
-doesn't mean it isn't happening
+- Để đạt được đích không bao giờ có một con đường
+
+- Đừng chọn 1 hoặc 2 mà hãy chọn tất cả
+
+- Khi bạn từ bỏ là lúc cuộc chơi kết thúc
+
+- Không bao giờ có 1 công thức chung cho tất cả
+
+- Khi 1 cánh cửa đóng lại thì có hàng ngàn cánh cửa khác mở ra
+
+- Trước khi từ bỏ hãy nghĩ về lý do mình bắt đầu
+
+- Life is not that bad it really doesn't matter... it's not just the right time
+
+- just becase it isn't happening here, doesn't mean it isn't happening
  
-if you don't do silly things when you're young, then you will have nothing to smile about when you're old
+- if you don't do silly things when you're young, then you will have nothing to smile about when you're old
  
-Just because we're not the fastest
-Doesn't mean we won't get there.
+- Just because we're not the fastest
+- Doesn't mean we won't get there.
