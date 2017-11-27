@@ -92,6 +92,8 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 ```
 
 ```
+https://www.nypl.org/library-card
+
 // Account
 Account 1:
 Library Card Number: 1506028
