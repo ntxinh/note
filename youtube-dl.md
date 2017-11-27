@@ -106,6 +106,11 @@ Account 3:
 https://www.lynda.com/portal/patron?org=akronlibrary.org&triedlogout=true
 Library Card Number: 1503278
 Library Card PIN: 12358
+
+Account 4:
+dclibrary.org
+Your Customer ID:   21172023746052
+Your PIN:   6909
 ```
 
 # Pluralsight
