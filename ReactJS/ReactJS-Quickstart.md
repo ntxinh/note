@@ -4,7 +4,7 @@ QUICK START
 - You can embed any JavaScript expression in JSX by wrapping it in curly braces.
 
  - You can use JSX inside of if statements and for loops, assign it to variables, accept it as arguments, and return it from functions:
-```
+```javascript
 function getGreeting(user) {
   if (user) {
     return <h1>Hello, {formatName(user)}!</h1>;
@@ -14,18 +14,18 @@ function getGreeting(user) {
 ```
 
  - You may use quotes to specify string literals as attributes:
- ```
+ ```javascript
 const element = <div tabIndex="0"></div>;
 ```
 
  - You may also use curly braces to embed a JavaScript expression in an attribute:
- ```
+ ```javascript
  const element = <img src={user.avatarUrl}></img>;
  ```
 - Don't put quotes around curly braces when embedding a JavaScript expression in an attribute. Otherwise JSX will treat the attribute as a string literal rather than an expression. You should either use quotes (for string values) or curly braces (for expressions), but not both in the same attribute.
 
 - If a tag is empty, you may close it immediately with />, like XML:
-```
+```javascript
 const element = <img src={user.avatarUrl} />;
 ```
 - Since JSX is closer to JavaScript than HTML, React DOM uses camelCase property naming convention instead of HTML attribute names.
@@ -52,13 +52,13 @@ For example, class becomes className in JSX, and tabindex becomes tabIndex
 - Render Components
 - Composing Components
 - Extracting Components
-```
+```javascript
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
 ```
 
-```
+```javascript
 class Welcome extends React.Component {
   render() {
     return <h1>Hello, {this.props.name}</h1>;
@@ -153,13 +153,15 @@ Handling events with React elements is very similar to handling events on DOM el
 - (*) React events are named using camelCase, rather than lowercase. (onclick vs onClick)
 - (*) With JSX you pass a function as the event handler, rather than a string.
 - (*) Another difference is that you cannot return false to prevent default behavior in React. You must call preventDefault explicitly. For example, with plain HTML, to prevent the default link behavior of opening a new page, you can write:
-```
+```html
 <a href="#" onclick="console.log('The link was clicked.'); return false">
   Click me
 </a>
+```
 
 vs
 
+```javascript
 function ActionLink() {
   function handleClick(e) {
     e.preventDefault();
@@ -177,7 +179,7 @@ function ActionLink() {
 - When using React you should generally not need to call addEventListener to add listeners to a DOM element after it is created. Instead, just provide a listener when the element is initially rendered.
 
 - You have to be careful about the meaning of this in JSX callbacks. In JavaScript, class methods are not bound by default
-```
+```javascript
 this.handleClick = this.handleClick.bind(this);
 ```
 
@@ -185,7 +187,7 @@ this.handleClick = this.handleClick.bind(this);
 
 - If calling bind annoys you, there are two ways you can get around this.
 Property initializer syntax
-```
+```javascript
 class LoggingButton extends React.Component {
   // This syntax ensures `this` is bound within handleClick.
   // Warning: this is *experimental* syntax.
@@ -204,7 +206,7 @@ class LoggingButton extends React.Component {
 ```
 
 Arrow function
-```
+```javascript
 class LoggingButton extends React.Component {
   handleClick() {
     console.log('this is:', this);
@@ -233,7 +235,7 @@ Returning null from a component's render method does not affect the firing of th
 ```
 
 # Lists & Keys
-```
+```javascript
 const numbers = [1, 2, 3, 4, 5];
 const doubled = numbers.map((number) => number * 2);
 console.log(doubled);
@@ -252,7 +254,7 @@ console.log(doubled);
 - Keys used within arrays should be unique among their siblings. However they don't need to be globally unique. We can use the same keys when we produce two different arrays:
 
 - Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
-```
+```javascript
 const content = posts.map((post) =>
   <Post
     key={post.id}

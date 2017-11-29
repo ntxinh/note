@@ -1,4 +1,4 @@
-```
+```javascript
 $.ajax({
     url: url + 'vehicle-inside/modify',
     type: "POST",

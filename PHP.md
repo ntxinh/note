@@ -1,11 +1,11 @@
 # PHP treats NULL, false, 0, [], and the empty string as equal.
-```
+```php
 $a = ''; // false = 0 = [] = '' = NULL
 if($a == NULL) {
 echo 'is null';
 }
 
-or
+// or
 
 $a = ''; // false = 0 = [] = '' = NULL
 if(!$a) {
@@ -14,10 +14,10 @@ echo 'is null';
 ```
 
 if you want check exaclly:
-```
+```php
 if($variable === NULL) {...}
 
-or
+// or
 
 if(is_null($variable)) {...}
 ```

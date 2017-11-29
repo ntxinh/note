@@ -1,4 +1,4 @@
-```
+```bash
 npm install -g _packagename__
 npm uninstall -g _packagename__
 
