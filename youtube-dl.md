@@ -113,6 +113,8 @@ Account 4:
 dclibrary.org
 Your Customer ID:   21172023746052
 Your PIN:   6909
+
+21172023853239		PIN: 5322
 ```
 
 # Pluralsight
