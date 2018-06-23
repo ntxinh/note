@@ -1,0 +1,497 @@
+#EXTM3U lvtt tonghop kenh nuoc ngoai 9.6.2018
+
+
+#EXTINF:-1,BBC One - London
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/72.ch
+#EXTINF:-1,BBC Two - England
+http://ovh.easyview.eu/hls/bbc2.m3u8
+#EXTINF:-1,BBC Two – Northern Ireland
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/16.ch
+#EXTINF:-1,BBC Two - Scotland
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/17.ch
+#EXTINF:-1,BBC Two - Wales
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/24.ch
+#EXTINF:-1,CBBC
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
+#EXTINF:-1,BBC Four
+http://ovh.easyview.eu/hls/bbc4.m3u8
+#EXTINF:-1,BBC Four HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/26.ch
+#EXTINF:-1,BBC News Channel
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/27.ch
+#EXTINF:-1,BBC News Channel HD
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/67.ch
+#EXTINF:-1,BBC World News
+http://94.74.64.1:19123/ott/34:1234
+#EXTINF:-1,CBeeBies
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
+#EXTINF:0,iTV
+http://ovh.easyview.eu/hls/itv.m3u8
+#EXTINF:0,iTV 2
+http://ovh.easyview.eu/hls/itv2.m3u8
+#EXTINF:0,iTV 3
+http://ovh.easyview.eu/hls/itv3.m3u8
+#EXTINF:0,iTV 4
+http://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:0,iTV Be
+http://ovh.easyview.eu/hls/itvbe.m3u8
+#EXTINF:-1,tvg-name="CBeeBies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/315px-CBeebies.svg.png",CBeeBies
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
+#EXTINF:-1,tvg-name="CBeeBies (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/315px-CBeebies.svg.png",CbeeBies (1)
+http://ovh.easyview.eu/hls/cbeebies.m3u8
+#EXTINF:0,tvg-name="iTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png",iTV
+http://ovh.easyview.eu/hls/itv.m3u8
+#EXTINF:0,tvg-name="iTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/ITV2_logo_2015.png",iTV 2
+http://ovh.easyview.eu/hls/itv2.m3u8
+#EXTINF:0,tvg-name="iTV 4" tvg-logo="http://hoolatv.com/sites/default/files/channels/itv4.png",iTV 4
+http://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:0,tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/250px-Channel_4_logo_2015.svg.png",Channel 4
+http://ovh.easyview.eu/hls/channel4.m3u8
+#EXTINF:0,tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/91px-More4_logo.svg.png",More 4
+http://ovh.easyview.eu/hls/more4.m3u8
+#EXTINF:0,tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/4seven_%28logo%29.svg/200px-4seven_%28logo%29.svg.png",4 Seven
+http://ovh.easyview.eu/hls/4seven.m3u8
+
+#EXTINF:-1 group-title="CHANNEL NEWS ASIA" tvg-logo="https://s17.postimg.org/b6i57buyn/newsasia.png",mobiTV:CHANNEL NEWS ASIA
+http://avg05.mobion.vn/live/t/SOy0bcn4L_TF_qJAXZv8Lg/s/baw31tkucq/e/1514896323697/origin64_9000/71/45036341/live/channelnewsasia.m3u8
+
+#EXTINF:-1,Asian Food Channel
+http://61.58.60.247:9000/live/176.m3u8
+#EXTINF:-1,DIVA
+http://61.58.60.247:9000/live/178.m3u8
+#EXTINF:-1,E!
+http://61.58.60.247:9000/live/180.m3u8
+#EXTINF:-1,True Movie
+http://61.218.59.193/live/ch102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://s16.postimg.org/4barkps4l/H8u_Sx7_NM.jpg" group-title="",CHANNEL NEWS ASIA
+http://imtcnai-lh.akamaihd.net/i/cnai_newtmp@334572/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://schedule.wttw.com/ulphoto/wttw_1328817746.jpg" group-title="",NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://htvc.vn/uploads/editor/images/kbs%20world.jpg" group-title="",KBS WORLD
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://s21.postimg.org/pbqe981d3/k_YXvz2bh_400x400.jpg" group-title="",ARIRANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC WORLD NEWS
+http://203.162.235.41:17817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNN
+http://203.162.235.41:17818
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CNBC
+http://203.162.235.41:17819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NHK PREMIUM
+http://203.162.235.41:17801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://www.webtvstreams.com/wp-content/uploads/2014/03/France-24-Logo.png" group-title="",FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://i.imgur.com/iSaZqQD.png" group-title="",DW
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/GtT3FDu.png" group-title="",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.iptv-hplus.com.vn/355x200/poster/2017/08/09/416777-AXN.png",AXN SD
+http://baochinh.ml/iptv-mytvnet.php?id=axnsd
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://api.mytvnet.vn/static/channel/40.png",HBO SD
+http://baochinh.ml/iptv-mytvnet.php?id=hbosd
+
+
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxmovies-hd
+#EXTINF:-1 group-title="NƯỚC NGOÀI"tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxlife-hd
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
+http://baochinh.ml/iptv-hplus.php?kenh=maxbyhbo
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
+http://baochinh.ml/iptv-hplus.php?kenh=redbyhbo
+#EXTINF:-1 group-title="NƯỚC NGOÀI"tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxhd
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/463862-Fox-Family-Movies.png",Fox Family Movies
+http://baochinh.ml/iptv-hplus.php?kenh=foxfamilymovies
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",Cinema World
+http://baochinh.ml/iptv-hplus.php?kenh=cinema-world
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/09/203777-zeetv-logo.png",Zee TV
+http://baochinh.ml/iptv-hplus.php?kenh=zeetv
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",Cartoon Network
+http://baochinh.ml/iptv-hplus.php?kenh=cartoon
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="IPTV" tvg-name="Al Jazeera English" tvg-logo="http://kinkodi.com/tv/logos/aljazeera-2.png",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="ARISE News" tvg-logo="http://kinkodi.com/tv/logos/arisenews-2.png",Arise News UK
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="BBC World News" tvg-logo="http://kinkodi.com/tv/logos/bbcworldnews-2.png",BBC World News UK
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="France 24" tvg-logo="http://kinkodi.com/tv/logos/france24-2.png",France 24 (Eng)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="NHK world" tvg-logo="http://kinkodi.com/tv/logos/nhkworld-2.png",NHK World Japan
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="Sky News" tvg-logo="http://kinkodi.com/tv/logos/skynews-2.png",Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="ABC News 24" tvg-logo="http://kinkodi.com/tv/logos/abcnews24-2.png",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/index_750_av-p.m3u8
+#EXTINF:-1 group-title="IPTV" tvg-name="DW" tvg-logo="http://kinkodi.com/tv/logos/dw-2.png",DE: DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_5_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+http://62.210.93.115:80/live?channelId=1&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+http://62.210.99.158:80/live?channelId=2&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.93.115:80/live?channelId=3&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.93.115:80/live?channelId=4&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+http://62.210.93.115:80/live?channelId=5&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.93.115:80/live?channelId=6&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+http://62.210.93.115:80/live?channelId=7&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.93.115:80/live?channelId=8&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.93.115:80/live?channelId=9&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+http://62.210.93.115:80/live?channelId=10&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.93.115:80/live?channelId=11&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+http://62.210.93.115:80/live?channelId=12&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+http://62.210.93.115:80/live?channelId=13&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+http://62.210.93.115:80/live?channelId=14&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+http://62.210.93.115:80/live?channelId=15&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+http://62.210.93.115:80/live?channelId=16&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+http://62.210.93.115:80/live?channelId=17&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+http://62.210.93.115:80/live?channelId=18&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+http://62.210.93.115:80/live?channelId=19&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.93.115:80/live?channelId=20&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+http://62.210.93.115:80/live?channelId=21&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+http://62.210.93.115:80/live?channelId=22&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="My5" tvg-link="" tvg-name="My5" tvg-logo="" group-title="Entertainment Channels",My5 - My5
+http://62.210.93.115:80/live?channelId=23&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+http://62.210.93.115:80/live?channelId=24&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.93.115:80/live?channelId=25&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.93.115:80/live?channelId=26&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.93.115:80/live?channelId=27&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.93.115:80/live?channelId=32&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.93.115:80/live?channelId=42&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.93.115:80/live?channelId=43&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.93.115:80/live?channelId=44&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.93.115:80/live?channelId=45&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.93.115:80/live?channelId=46&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.93.115:80/live?channelId=47&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.93.115:80/live?channelId=48&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.93.115:80/live?channelId=49&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.93.115:80/live?channelId=50&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.93.115:80/live?channelId=58&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.93.115:80/live?channelId=67&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.93.115:80/live?channelId=68&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
+http://62.210.93.43:80/live?channelId=90&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
+http://62.210.93.43:80/live?channelId=91&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
+http://62.210.93.43:80/live?channelId=92&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Cbeeies" tvg-link="" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
+http://62.210.93.43:80/live?channelId=93&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
+http://62.210.93.43:80/live?channelId=94&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
+http://62.210.93.43:80/live?channelId=96&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
+http://62.210.93.43:80/live?channelId=97&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
+http://62.210.93.43:80/live?channelId=98&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
+http://62.210.93.43:80/live?channelId=99&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
+http://62.210.93.43:80/live?channelId=100&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Boomerang" tvg-link="" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
+http://62.210.93.43:80/live?channelId=101&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Base" tvg-logo="" group-title="Music Channels",MTV Base - MTV Base
+http://62.210.93.43:80/live?channelId=102&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Classic" tvg-logo="" group-title="Music Channels",MTV Classic - MTV Classic
+http://62.210.93.43:80/live?channelId=103&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
+http://62.210.93.43:80/live?channelId=104&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Hits" tvg-logo="" group-title="Music Channels",MTV Hits - MTV Hits
+http://62.210.93.43:80/live?channelId=105&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Music" tvg-logo="" group-title="Music Channels",MTV Music - MTV Music
+http://62.210.93.43:80/live?channelId=106&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="MTV Rocks" tvg-logo="" group-title="Music Channels",MTV Rocks - MTV Rocks
+http://62.210.93.43:80/live?channelId=107&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="3e.ie" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="3e" tvg-logo="" group-title="Regional Channels",3e - 3e
+http://62.210.93.43:80/live?channelId=112&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="RTE one" tvg-logo="" group-title="Regional Channels",RTE one - RTE one
+http://62.210.93.43:80/live?channelId=113&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-link="http://iptv-epg.com/599f-mrx1ut.xml" tvg-name="RTE two" tvg-logo="" group-title="Regional Channels",RTE two - RTE two
+http://62.210.93.43:80/live?channelId=114&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="STV" tvg-link="" tvg-name="STV" tvg-logo="" group-title="Regional Channels",STV - STV
+http://62.210.93.43:80/live?channelId=116&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+
+#EXTINF:-1,Матч!Футбол 1
+http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 3
+http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
+#EXTINF:-1,МАТЧ ТВ
+http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1,КХЛ
+http://51.15.42.158:8081/tv/khl/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
+#EXTINF:-1,Матч!Боец
+http://51.15.42.158:8081/tv/match-boec/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sly Sports",Sly Sports Action - Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" tvg-logo="" group-title="Sly Sports",Sly Sports Action HD - Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" tvg-logo="" group-title="Sly Sports",Sly Sports Arena - Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" tvg-logo="" group-title="Sly Sports",Sly Sports Arena HD - Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket - Sly Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket HD - Sly Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" tvg-logo="" group-title="Sly Sports",Sly Sports Football - Sly Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" tvg-logo="" group-title="Sly Sports",Sly Sports Football HD - Sly Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" tvg-logo="" group-title="Sly Sports",Sly Sports Golf - Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" tvg-logo="" group-title="Sly Sports",Sly Sports Golf HD - Sly Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" tvg-logo="" group-title="Sly Sports",Sly Sports Main - Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" tvg-logo="" group-title="Sly Sports",Sly Sports Main HD - Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" tvg-logo="" group-title="Sly Sports",Sly Sports Mix - Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" tvg-logo="" group-title="Sly Sports",Sly Sports Mix HD - Sly Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" tvg-logo="" group-title="Sly Sports",Sly Sports PL - Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" tvg-logo="" group-title="Sly Sports",Sly Sports PL HD - Sly Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" tvg-logo="" group-title="Sly Sports",Sly Sports F1 - Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" tvg-logo="" group-title="Sly Sports",Sly Spts F1 HD - Sly Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" tvg-logo="" group-title="Sly Sports",Sly Sports News - Sly Sports News
+http://62.210.99.158:80/live?channelId=137&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" tvg-logo="" group-title="Sly Sports",Sly Sports News HD - Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySpBoxOff" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Box Office" tvg-logo="" group-title="PAY PER VIEW EVENTS",Sly Sports Box Office - Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="BT Sports",BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="BT Sports",BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="BT Sports",BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="BT Sports",BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="BT Sports",BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" tvg-logo="" group-title="BT Sports",BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+http://62.210.214.28:80/live?channelId=157&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="FreeSports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+http://62.210.214.28:80/live?channelId=158&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Frontrunner" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+http://62.210.214.28:80/live?channelId=159&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MUTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="LFC TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Chelsea TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://62.210.214.28:80/live?channelId=165&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://62.210.214.28:80/live?channelId=166&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Motorsport.tv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="At The Races" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BoxNation" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
+http://163.172.105.25:80/live?channelId=175&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
+http://163.172.105.25:80/live?channelId=176&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
+http://163.172.105.25:80/live?channelId=177&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
+http://163.172.105.25:80/live?channelId=178&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
+http://163.172.105.25:80/live?channelId=179&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
+http://163.172.105.25:80/live?channelId=180&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
+http://163.172.105.25:80/live?channelId=181&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
+http://163.172.105.25:80/live?channelId=182&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
+http://163.172.105.25:80/live?channelId=183&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
+http://163.172.105.25:80/live?channelId=184&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
+http://163.172.105.25:80/live?channelId=185&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
+http://163.172.105.25:80/live?channelId=186&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
+http://163.172.105.25:80/live?channelId=187&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
+http://163.172.105.25:80/live?channelId=188&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
+http://163.172.105.25:80/live?channelId=189&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 1" tvg-link="" tvg-name="BEin Sports EPL 1" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.105.25:80/live?channelId=190&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 2" tvg-link="" tvg-name="BEin Sports EPL 2" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.25:80/live?channelId=191&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 3" tvg-link="" tvg-name="BEin Sports EPL 3" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.105.25:80/live?channelId=192&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 1" tvg-link="" tvg-name="SKY NET SPORTS 1" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 1 - SKY NET SPORTS 1
+http://163.172.105.25:80/live?channelId=211&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 2" tvg-link="" tvg-name="SKY NET SPORTS 2" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 2 - SKY NET SPORTS 2
+http://163.172.105.25:80/live?channelId=212&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 3" tvg-link="" tvg-name="SKY NET SPORTS 3" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 3 - SKY NET SPORTS 3
+http://163.172.105.25:80/live?channelId=213&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 4" tvg-link="" tvg-name="SKY NET SPORTS 4" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 4 - SKY NET SPORTS 4
+http://163.172.105.25:80/live?channelId=214&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 5" tvg-link="" tvg-name="SKY NET SPORTS 5" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 5 - SKY NET SPORTS 5
+http://163.172.105.25:80/live?channelId=215&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 6" tvg-link="" tvg-name="SKY NET SPORTS 6" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 6 - SKY NET SPORTS 6
+http://163.172.105.25:80/live?channelId=216&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="USA/CA Channels",TSN 1 - TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="USA/CA Channels",TSN 2 - TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="USA/CA Channels",TSN 3 - TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="USA/CA Channels",TSN 4 - TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="USA/CA Channels",TSN 5 - TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="AMC (US)" tvg-link="" tvg-name="AMC (US)" tvg-logo="" group-title="USA/CA Channels",AMC (US) - AMC (US)
+http://163.172.15.141:9732/live?channelId=242&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Animal Planet (US)" tvg-link="" tvg-name="Animal Planet (US)" tvg-logo="" group-title="USA/CA Channels",Animal Planet (US) - Animal Planet (US)
+http://163.172.15.141:9732/live?channelId=243&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="DESTINATION AMERICA (US)" tvg-link="" tvg-name="DESTINATION AMERICA (US)" tvg-logo="" group-title="USA/CA Channels",DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+http://163.172.15.141:9732/live?channelId=244&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Discovery (US)" tvg-link="" tvg-name="Discovery (US)" tvg-logo="" group-title="USA/CA Channels",Discovery (US) - Discovery (US)
+http://163.172.15.141:9732/live?channelId=245&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE (US)" tvg-link="" tvg-name="DISCOVERY SCIENCE (US)" tvg-logo="" group-title="USA/CA Channels",DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+http://163.172.15.141:9732/live?channelId=246&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT (US)" tvg-link="" tvg-name="E! ENTERTAINMENT (US)" tvg-logo="" group-title="USA/CA Channels",E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+http://163.172.15.141:9732/live?channelId=247&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-link="" tvg-name="FOX NEWS" tvg-logo="" group-title="USA/CA Channels",FOX NEWS - FOX NEWS
+http://163.172.15.141:9732/live?channelId=248&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="FX (US)" tvg-link="" tvg-name="FX (US)" tvg-logo="" group-title="USA/CA Channels",FX (US) - FX (US)
+http://163.172.15.141:9732/live?channelId=249&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="HISTORY (US)" tvg-link="" tvg-name="HISTORY (US)" tvg-logo="" group-title="USA/CA Channels",HISTORY (US) - HISTORY (US)
+http://163.172.15.141:9732/live?channelId=250&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MBL NETWORK (US)" tvg-link="" tvg-name="MBL NETWORK (US)" tvg-logo="" group-title="USA/CA Channels",MBL NETWORK (US) - MBL NETWORK (US)
+http://163.172.15.141:9732/live?channelId=251&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPIKE (US)" tvg-link="" tvg-name="SPIKE (US)" tvg-logo="" group-title="USA/CA Channels",SPIKE (US) - SPIKE (US)
+http://163.172.15.141:9732/live?channelId=253&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SYFY (US)" tvg-link="" tvg-name="SYFY (US)" tvg-logo="" group-title="USA/CA Channels",SYFY (US) - SYFY (US)
+http://163.172.15.141:9732/live?channelId=254&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="TBS (US)" tvg-link="" tvg-name="TBS (US)" tvg-logo="" group-title="USA/CA Channels",TBS (US) - TBS (US)
+http://163.172.15.141:9732/live?channelId=255&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="WWE Network" tvg-link="" tvg-name="WWE Network" tvg-logo="" group-title="USA/CA Channels",WWE Network - WWE Network
+http://163.172.15.141:9732/live?channelId=256&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-link="" tvg-name="BBC NEWS" tvg-logo="" group-title="News Channels",BBC NEWS - BBC NEWS
+http://163.172.15.141:9732/live?channelId=257&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="CNN NEWS" tvg-link="" tvg-name="CNN NEWS" tvg-logo="" group-title="News Channels",CNN NEWS - CNN NEWS
+http://163.172.15.141:9732/live?channelId=258&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-link="" tvg-name="SKY NEWS" tvg-logo="" group-title="News Channels",SKY NEWS - SKY NEWS
+http://163.172.15.141:9732/live?channelId=259&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+

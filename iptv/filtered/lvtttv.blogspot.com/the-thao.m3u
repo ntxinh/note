@@ -1,0 +1,566 @@
+#EXTM3U lvtt sports 12.6.2018
+
+#EXTINF:-1,Sky Sports Main Event HD
+http://kingproeu.com:8080/live/niacam/exchange50/18161.ts
+#EXTINF:-1,Sky Sports Premier League HD
+http://kingproeu.com:8080/live/niacam/exchange50/18160.ts
+#EXTINF:-1,Sky Sports Football HD
+http://kingproeu.com:8080/live/niacam/exchange50/20444.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://kingproeu.com:8080/live/niacam/exchange50/18162.ts
+#EXTINF:-1,Sky Sports Golf HD
+http://kingproeu.com:8080/live/niacam/exchange50/18159.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://kingproeu.com:8080/live/niacam/exchange50/18157.ts
+#EXTINF:-1,Sky Sports Action HD
+http://kingproeu.com:8080/live/niacam/exchange50/18158.ts
+#EXTINF:-1,Sky Sports Arena HD
+http://kingproeu.com:8080/live/niacam/exchange50/20445.ts
+#EXTINF:-1,Sky Sports News HD
+http://kingproeu.com:8080/live/niacam/exchange50/18213.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://kingproeu.com:8080/live/niacam/exchange50/20239.ts
+#EXTINF:-1,Eurosport 1 HD
+http://kingproeu.com:8080/live/niacam/exchange50/20446.ts
+#EXTINF:-1,Eurosport 2 HD
+http://kingproeu.com:8080/live/niacam/exchange50/18185.ts
+#EXTINF:-1,BT Sport 1 HD
+http://kingproeu.com:8080/live/niacam/exchange50/18191.ts
+#EXTINF:-1,BT Sport 2 HD**
+http://kingproeu.com:8080/live/niacam/exchange50/32701.ts
+#EXTINF:-1,BT Sport 2 SD
+http://kingproeu.com:8080/live/niacam/exchange50/18190.ts
+#EXTINF:-1,BT Sport 3 HD
+http://kingproeu.com:8080/live/niacam/exchange50/18208.ts
+#EXTINF:-1,BT Sport Extra 1
+http://kingproeu.com:8080/live/niacam/exchange50/22678.ts
+#EXTINF:-1,BT Sport Extra 2
+http://kingproeu.com:8080/live/niacam/exchange50/22679.ts
+#EXTINF:-1,BT Sport Extra 3
+http://kingproeu.com:8080/live/niacam/exchange50/22681.ts
+#EXTINF:-1,BT Sport Extra 4
+http://kingproeu.com:8080/live/niacam/exchange50/22682.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://kingproeu.com:8080/live/niacam/exchange50/18186.ts
+#EXTINF:-1,At The Races
+http://kingproeu.com:8080/live/niacam/exchange50/20432.ts
+#EXTINF:-1,MUTV HD
+http://kingproeu.com:8080/live/niacam/exchange50/19668.ts
+#EXTINF:-1,Chelsea TV HD
+http://kingproeu.com:8080/live/niacam/exchange50/20240.ts
+#EXTINF:-1,Premier Sports HD
+http://kingproeu.com:8080/live/niacam/exchange50/18163.ts
+#EXTINF:-1,LFCTV HD
+http://kingproeu.com:8080/live/niacam/exchange50/20144.ts
+#EXTINF:-1,Racing UK HD
+http://kingproeu.com:8080/live/niacam/exchange50/18214.ts
+#EXTINF:-1,Motors TV HD
+http://kingproeu.com:8080/live/niacam/exchange50/22060.ts
+#EXTINF:-1,Ginxe Sports TV
+http://kingproeu.com:8080/live/niacam/exchange50/25273.ts
+#EXTINF:-1,Redbull TV
+http://kingproeu.com:8080/live/niacam/exchange50/27374.ts
+#EXTINF:-1,Nautical Channel
+http://kingproeu.com:8080/live/niacam/exchange50/27422.ts
+#EXTINF:-1,Horse & Country
+http://kingproeu.com:8080/live/niacam/exchange50/27421.ts
+#EXTINF:-1,Box Nation HD
+http://kingproeu.com:8080/live/niacam/exchange50/18222.ts
+#EXTINF:-1,Box Nation SD
+http://kingproeu.com:8080/live/niacam/exchange50/24589.ts
+#EXTINF:-1,Celtic TV
+http://kingproeu.com:8080/live/niacam/exchange50/22057.ts
+#EXTINF:-1,Rangers TV
+http://kingproeu.com:8080/live/niacam/exchange50/22050.ts
+#EXTINF:-1,Russia 1
+http://kingproeu.com:8080/live/niacam/exchange50/27469.ts
+#EXTINF:-1,Sky Sports Box Office HD
+http://kingproeu.com:8080/live/niacam/exchange50/32382.ts
+#EXTINF:-1,Itv Box Office HD
+http://kingproeu.com:8080/live/niacam/exchange50/20241.ts
+
+#EXTINF:-1,ViP SPOR 4K
+http://164.132.200.17:8080/live/elcin67/elcin67/3949.ts
+#EXTINF:-1,ViP SPOR EXTRA 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/450.ts
+#EXTINF:-1,ViP SPOR EXTRA 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/462.ts
+#EXTINF:-1,ViP SPOR EXTRA 3 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/2414.ts
+#EXTINF:-1,ViP SPOR EXTRA 4 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/2415.ts
+#EXTINF:-1,DUSUK KALiTE YAYIN SD
+http://164.132.200.17:8080/live/elcin67/elcin67/2416.ts
+#EXTINF:-1,BeIN Sports Haber HD
+http://164.132.200.17:8080/live/elcin67/elcin67/2881.ts
+#EXTINF:-1,BeIN Sports 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1.ts
+#EXTINF:-1,ViP BeIN Sports 2 HD+
+http://164.132.200.17:8080/live/elcin67/elcin67/2418.ts
+#EXTINF:-1,BeIN Sports 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/2.ts
+#EXTINF:-1,ViP BeIN Sports 3 HD+
+http://164.132.200.17:8080/live/elcin67/elcin67/2419.ts
+#EXTINF:-1,BeIN Sports 3 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/3.ts
+#EXTINF:-1,BeIN Sports 4 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/5.ts
+#EXTINF:-1,BeIN Sports HD MAX 1
+http://164.132.200.17:8080/live/elcin67/elcin67/1403.ts
+#EXTINF:-1,BeIN Sports HD MAX 2
+http://164.132.200.17:8080/live/elcin67/elcin67/1848.ts
+#EXTINF:-1,TiViBUSPOR 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/6.ts
+#EXTINF:-1,TiViBUSPOR 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/448.ts
+#EXTINF:-1,TiViBUSPOR 3 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1108.ts
+#EXTINF:-1,TiViBUSPOR 4 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1109.ts
+#EXTINF:-1,S SPORT HD
+http://164.132.200.17:8080/live/elcin67/elcin67/963.ts
+#EXTINF:-1,SPOR SMART HD
+http://164.132.200.17:8080/live/elcin67/elcin67/964.ts
+#EXTINF:-1,TRT SPOR HD+
+http://164.132.200.17:8080/live/elcin67/elcin67/8.ts
+#EXTINF:-1,A SPOR HD+
+http://164.132.200.17:8080/live/elcin67/elcin67/14.ts
+#EXTINF:-1,A SPOR SD
+http://164.132.200.17:8080/live/elcin67/elcin67/3467.ts
+#EXTINF:-1,EUROSPORT 1 HD (TR)
+http://164.132.200.17:8080/live/elcin67/elcin67/999.ts
+#EXTINF:-1,EUROSPORT 2 HD (TR)
+http://164.132.200.17:8080/live/elcin67/elcin67/1000.ts
+
+#EXTINF:-1,SKY SPORT MAIN EVENT HD
+http://mlsh.co:2086/live/ste123/ste123/20304.ts
+#EXTINF:-1,SKY SPORTS  F1 1080P
+http://mlsh.co:2086/live/ste123/ste123/22203.ts
+#EXTINF:-1,SKY SPORTS ACTION 1080P
+http://mlsh.co:2086/live/ste123/ste123/22204.ts
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://mlsh.co:2086/live/ste123/ste123/20253.ts
+#EXTINF:-1,SKY SPORTS ACTION SD
+http://mlsh.co:2086/live/ste123/ste123/20261.ts
+#EXTINF:-1,SKY SPORTS ARENA 1080
+http://mlsh.co:2086/live/ste123/ste123/23353.ts
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://mlsh.co:2086/live/ste123/ste123/24104.ts
+#EXTINF:-1,SKY SPORTS ARENA SD
+http://mlsh.co:2086/live/ste123/ste123/24103.ts
+#EXTINF:-1,SKY SPORTS CRICKET 1080
+http://mlsh.co:2086/live/ste123/ste123/22205.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://mlsh.co:2086/live/ste123/ste123/20252.ts
+#EXTINF:-1,SKY SPORTS CRICKET SD
+http://mlsh.co:2086/live/ste123/ste123/20260.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://mlsh.co:2086/live/ste123/ste123/20256.ts
+#EXTINF:-1,SKY SPORTS F1 SD
+http://mlsh.co:2086/live/ste123/ste123/20264.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL  HD
+http://mlsh.co:2086/live/ste123/ste123/24097.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL 1080
+http://mlsh.co:2086/live/ste123/ste123/23352.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://mlsh.co:2086/live/ste123/ste123/24096.ts
+#EXTINF:-1,SKY SPORTS GOLF 1080p
+http://mlsh.co:2086/live/ste123/ste123/22926.ts
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://mlsh.co:2086/live/ste123/ste123/20254.ts
+#EXTINF:-1,SKY SPORTS GOLF SD
+http://mlsh.co:2086/live/ste123/ste123/20262.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT 1080
+http://mlsh.co:2086/live/ste123/ste123/22206.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+http://mlsh.co:2086/live/ste123/ste123/20259.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://mlsh.co:2086/live/ste123/ste123/21072.ts
+#EXTINF:-1,SKY SPORTS MIX 1080
+http://mlsh.co:2086/live/ste123/ste123/26682.ts
+#EXTINF:-1,SKY SPORTS MIX HD
+http://mlsh.co:2086/live/ste123/ste123/24683.ts
+#EXTINF:-1,SKY SPORTS NEWS SD
+http://mlsh.co:2086/live/ste123/ste123/26683.ts
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://mlsh.co:2086/live/ste123/ste123/27247.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE 1080P
+http://mlsh.co:2086/live/ste123/ste123/22925.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://mlsh.co:2086/live/ste123/ste123/20255.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://mlsh.co:2086/live/ste123/ste123/20263.ts
+#EXTINF:-1,SKY TWO UK
+http://mlsh.co:2086/live/ste123/ste123/20212.ts
+#EXTINF:-1,SONY MOVIES USA
+http://mlsh.co:2086/live/ste123/ste123/20187.ts
+#EXTINF:-1,SPIKE UK
+http://mlsh.co:2086/live/ste123/ste123/20360.ts
+#EXTINF:-1,SPIKE USA HD
+http://mlsh.co:2086/live/ste123/ste123/21013.ts
+#EXTINF:-1,SPORTS NET ONTARIO
+http://mlsh.co:2086/live/ste123/ste123/20068.ts
+#EXTINF:-1,SPORTSNET 360
+http://mlsh.co:2086/live/ste123/ste123/20069.ts
+#EXTINF:-1,SPORTSNET EAST
+http://mlsh.co:2086/live/ste123/ste123/21579.ts
+#EXTINF:-1,SPORTSNET ONE
+http://mlsh.co:2086/live/ste123/ste123/20070.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://mlsh.co:2086/live/ste123/ste123/20071.ts
+#EXTINF:-1,SPORTSNET WEST
+http://mlsh.co:2086/live/ste123/ste123/20072.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://mlsh.co:2086/live/ste123/ste123/20073.ts
+
+
+#EXTINF:-1,ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?iptvsrc
+#EXTINF:-1,ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?iptvsrc
+
+#EXTINF:-1 group-title="India", SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="India", SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="India", SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="India", SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="India", SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1 group-title="India", NeoPrime
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="India", NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="India", DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India", DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="India", DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India", DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+ 
+#EXTINF:-1 group-title="Матч Sports",Матч! ТВ HD
+http://tele.usite.pro/iptv/HD-PlayList/match_tv_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Арена HD
+http://tele.usite.pro/iptv/HD-PlayList/match_arena_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Игра HD
+http://tele.usite.pro/iptv/HD-PlayList/match_igra_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 1 HD
+http://tele.usite.pro/iptv/HD-PlayList/match_futbol_1_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 2 HD
+http://tele.usite.pro/iptv/HD-PlayList/match_futbol_2_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Футбол 3 HD
+http://tele.usite.pro/iptv/HD-PlayList/match_futbol_3_hd.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Наш спорт
+http://tele.usite.pro/iptv/HD-PlayList/match_nash_sport.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Планета
+http://tele.usite.pro/iptv/HD-PlayList/match_planeta.m3u8
+#EXTINF:-1 group-title="Матч Sports",Матч! Боец
+http://tele.usite.pro/iptv/HD-PlayList/match_boec.m3u8
+
+#EXTINF:-1 group-title="Sports",La Liga TV FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/581/index.m3u8
+#EXTINF:-1 group-title="Sports",Movistar Futbol FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/575/index.m3u8
+#EXTINF:-1 group-title="Sports",Movistar MotoGP FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/613/index.m3u8
+#EXTINF:-1 group-title="Sports",Movistar Golf FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/569/index.m3u8
+#EXTINF:-1 group-title="Sports",Movistar Formula 1 FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/612/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 1 (Alt) FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/159/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 2 FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/78/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 2 (Alt) FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/77/index.m3u8
+#EXTINF:-1 group-title="Sports",Box Nation SD
+http://playlist.onlybest.tv/en/channel/93308c1d4668223e600a223a8004a665/316/index.m3u8
+#EXTINF:-1 group-title="Sports",Premiere Sports SD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/47/index.m3u8
+#EXTINF:-1 group-title="Sports",Skysports 1 FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/737/index.m3u8
+#EXTINF:-1 group-title="Sports",Skysports 2 FHD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/733/index.m3u8
+#EXTINF:-1 group-title="Sports",Rai Sport SD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/528/index.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 
+http://mhms9.airtel.tv/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD 
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 3 HD 
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="Sports",Sony Ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1
+http://persik.by/stream/3903/293564/346.m3u8 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2
+http://persik.by/stream/3903/293564/10217.m3u8 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3
+http://persik.by/stream/3903/293564/10218.m3u8 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD
+http://persik.by/stream/3903/293564/10266.m3u8 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD
+http://persik.by/stream/3903/293564/10267.m3u8 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD
+http://persik.by/stream/3903/293564/10268.m3u8 
+
+#EXTINF:-1 group-title="Sports",Sony ESPN HD 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Six HD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="Sports",Sony Six SD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="Sports", Neo Sports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="Sports", Neo Prime
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="Sports", DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="Sports", DS Sports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="Sports",DS Sports 
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="Sports",DS Sports 
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1,Матч!Футбол 1
+http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 3
+http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
+#EXTINF:-1,МАТЧ ТВ
+http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1,КХЛ
+http://51.15.42.158:8081/tv/khl/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
+#EXTINF:-1,Матч!Боец
+http://51.15.42.158:8081/tv/match-boec/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" tvg-logo="" group-title="Sly Sports",Sly Sports Action - Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" tvg-logo="" group-title="Sly Sports",Sly Sports Action HD - Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" tvg-logo="" group-title="Sly Sports",Sly Sports Arena - Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" tvg-logo="" group-title="Sly Sports",Sly Sports Arena HD - Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket - Sly Sports Cricket
+http://62.210.99.158:80/live?channelId=123&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" tvg-logo="" group-title="Sly Sports",Sly Sports Cricket HD - Sly Sports Cricket HD
+http://62.210.99.158:80/live?channelId=124&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" tvg-logo="" group-title="Sly Sports",Sly Sports Football - Sly Sports Football
+http://62.210.99.158:80/live?channelId=125&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" tvg-logo="" group-title="Sly Sports",Sly Sports Football HD - Sly Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" tvg-logo="" group-title="Sly Sports",Sly Sports Golf - Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" tvg-logo="" group-title="Sly Sports",Sly Sports Golf HD - Sly Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" tvg-logo="" group-title="Sly Sports",Sly Sports Main - Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" tvg-logo="" group-title="Sly Sports",Sly Sports Main HD - Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" tvg-logo="" group-title="Sly Sports",Sly Sports Mix - Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" tvg-logo="" group-title="Sly Sports",Sly Sports Mix HD - Sly Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" tvg-logo="" group-title="Sly Sports",Sly Sports PL - Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" tvg-logo="" group-title="Sly Sports",Sly Sports PL HD - Sly Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" tvg-logo="" group-title="Sly Sports",Sly Sports F1 - Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" tvg-logo="" group-title="Sly Sports",Sly Spts F1 HD - Sly Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" tvg-logo="" group-title="Sly Sports",Sly Sports News - Sly Sports News
+http://62.210.99.158:80/live?channelId=137&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" tvg-logo="" group-title="Sly Sports",Sly Sports News HD - Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SkySpBoxOff" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Box Office" tvg-logo="" group-title="PAY PER VIEW EVENTS",Sly Sports Box Office - Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" tvg-logo="" group-title="BT Sports",BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" tvg-logo="" group-title="BT Sports",BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" tvg-logo="" group-title="BT Sports",BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" tvg-logo="" group-title="BT Sports",BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" tvg-logo="" group-title="BT Sports",BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" tvg-logo="" group-title="BT Sports",BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="eir Sport 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+http://62.210.214.28:80/live?channelId=157&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="FreeSports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+http://62.210.214.28:80/live?channelId=158&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Frontrunner" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+http://62.210.214.28:80/live?channelId=159&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MUTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="LFC TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Chelsea TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://62.210.214.28:80/live?channelId=165&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://62.210.214.28:80/live?channelId=166&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Motorsport.tv" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Premier Sports" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="Racing UK" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="At The Races" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BoxNation" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 1" tvg-link="" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
+http://163.172.105.25:80/live?channelId=175&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 2" tvg-link="" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
+http://163.172.105.25:80/live?channelId=176&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="bein france 3" tvg-link="" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
+http://163.172.105.25:80/live?channelId=177&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
+http://163.172.105.25:80/live?channelId=178&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
+http://163.172.105.25:80/live?channelId=179&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
+http://163.172.105.25:80/live?channelId=180&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
+http://163.172.105.25:80/live?channelId=181&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
+http://163.172.105.25:80/live?channelId=182&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
+http://163.172.105.25:80/live?channelId=183&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
+http://163.172.105.25:80/live?channelId=184&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
+http://163.172.105.25:80/live?channelId=185&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
+http://163.172.105.25:80/live?channelId=186&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
+http://163.172.105.25:80/live?channelId=187&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
+http://163.172.105.25:80/live?channelId=188&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
+http://163.172.105.25:80/live?channelId=189&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 1" tvg-link="" tvg-name="BEin Sports EPL 1" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.105.25:80/live?channelId=190&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 2" tvg-link="" tvg-name="BEin Sports EPL 2" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.25:80/live?channelId=191&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="BEin Sports EPL 3" tvg-link="" tvg-name="BEin Sports EPL 3" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.105.25:80/live?channelId=192&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 1" tvg-link="" tvg-name="SKY NET SPORTS 1" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 1 - SKY NET SPORTS 1
+http://163.172.105.25:80/live?channelId=211&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 2" tvg-link="" tvg-name="SKY NET SPORTS 2" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 2 - SKY NET SPORTS 2
+http://163.172.105.25:80/live?channelId=212&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 3" tvg-link="" tvg-name="SKY NET SPORTS 3" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 3 - SKY NET SPORTS 3
+http://163.172.105.25:80/live?channelId=213&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 4" tvg-link="" tvg-name="SKY NET SPORTS 4" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 4 - SKY NET SPORTS 4
+http://163.172.105.25:80/live?channelId=214&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 5" tvg-link="" tvg-name="SKY NET SPORTS 5" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 5 - SKY NET SPORTS 5
+http://163.172.105.25:80/live?channelId=215&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SKY NET SPORTS 6" tvg-link="" tvg-name="SKY NET SPORTS 6" tvg-logo="" group-title="SKYNET sports",SKY NET SPORTS 6 - SKY NET SPORTS 6
+http://163.172.105.25:80/live?channelId=216&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET 360 HD - SPORTS NET 360 HD
+http://163.172.15.141:9732/live?channelId=222&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="" tvg-name="SPORTS NET EAST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET EAST HD - SPORTS NET EAST HD
+http://163.172.15.141:9732/live?channelId=223&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="" tvg-name="SPORTS NET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONE HD - SPORTS NET ONE HD
+http://163.172.15.141:9732/live?channelId=224&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="" tvg-name="SPORTS NET ONTARIO HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://163.172.15.141:9732/live?channelId=225&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="" tvg-name="SPORTS NET PACIFIC HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://163.172.15.141:9732/live?channelId=226&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="" tvg-name="SPORTS NET WEST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WEST HD - SPORTS NET WEST HD
+http://163.172.15.141:9732/live?channelId=227&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="" tvg-name="SPORTS NET WORLD HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://163.172.15.141:9732/live?channelId=228&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-link="" tvg-name="SPORTSNET 360" tvg-logo="" group-title="USA/CA Channels",SPORTSNET 360 - SPORTSNET 360
+http://163.172.15.141:9732/live?channelId=229&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-link="" tvg-name="SPORTSNET EAST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET EAST - SPORTSNET EAST
+http://163.172.15.141:9732/live?channelId=230&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-link="" tvg-name="SPORTSNET ONE" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE - SPORTSNET ONE
+http://163.172.15.141:9732/live?channelId=231&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE HD - SPORTSNET ONE HD
+http://163.172.15.141:9732/live?channelId=232&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET ONTARIO" tvg-link="" tvg-name="SPORTSNET ONTARIO" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONTARIO - SPORTSNET ONTARIO
+http://163.172.15.141:9732/live?channelId=233&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET PACIFIC" tvg-link="" tvg-name="SPORTSNET PACIFIC" tvg-logo="" group-title="USA/CA Channels",SPORTSNET PACIFIC - SPORTSNET PACIFIC
+http://163.172.15.141:9732/live?channelId=234&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET WEST" tvg-link="" tvg-name="SPORTSNET WEST" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WEST - SPORTSNET WEST
+http://163.172.15.141:9732/live?channelId=235&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-link="" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET WORLD - SPORTSNET WORLD
+http://163.172.15.141:9732/live?channelId=236&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="USA FOX SPORTS 1" tvg-link="" tvg-name="USA FOX SPORTS 1" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 1 - USA FOX SPORTS 1
+http://163.172.15.141:9732/live?channelId=237&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="USA FOX SPORTS 2" tvg-link="" tvg-name="USA FOX SPORTS 2" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 2 - USA FOX SPORTS 2
+http://163.172.15.141:9732/live?channelId=238&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="A&E (US)" tvg-link="" tvg-name="A&E (US)" tvg-logo="" group-title="USA/CA Channels",A&E (US) - A&E (US)
+http://163.172.15.141:9732/live?channelId=239&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="AFN SPORTS (US)" tvg-link="" tvg-name="AFN SPORTS (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS (US) - AFN SPORTS (US)
+http://163.172.15.141:9732/live?channelId=240&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1 tvg-id="AFN SPORTS 2 (US)" tvg-link="" tvg-name="AFN SPORTS 2 (US)" tvg-logo="" group-title="USA/CA Channels",AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+http://163.172.15.141:9732/live?channelId=241&uid=4292&deviceMac=00:1a:79:3c:c0:9c
