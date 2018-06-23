@@ -1,4 +1,3 @@
-
 # Theme for Git Bash
 
 ```

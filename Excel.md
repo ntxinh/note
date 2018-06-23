@@ -17,7 +17,7 @@ Ctrl + Click : get Position of cell
 
 AutoFill
 FlashFill
-AutoFiiilter
+AutoFilter
 SubTotal
 
 Relative Reference  C4

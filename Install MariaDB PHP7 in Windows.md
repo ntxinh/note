@@ -1,10 +1,13 @@
-```
-PHP7
+# PHP7
+
 - Extract to C:\php
 - add "C:\php" Path
 - add VCRUNTIME140.DLL to C:\php
 - copy & php.ini-development to php.ini
-- remove ";" {
+- remove ";"
+
+```ini
+{
 	extension=php_bz2.dll
 	extension=php_curl.dll
 	extension=php_fileinfo.dll
@@ -19,10 +22,11 @@ PHP7
 	extension=php_soap.dll
 	extension=php_sqlite3.dll
 }
+```
 
-MariaDB
+# MariaDB
+
 - Install MSI
 - Find service.msc
 - Start MariaDB
 - Folder save database: C:\Program Files\MariaDB 10.1\data
-```

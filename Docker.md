@@ -1,6 +1,6 @@
 # Docker Machine
 
-```
+```bash
 docker-machine ls
 docker-machine start [machine name]
 docker-machine stop [machine name]
@@ -11,7 +11,7 @@ docker-machine status [machine name]
 
 # Docker Client
 
-```
+```bash
 docker pull [image name]
 docker images
 docker rmi [image ID]
@@ -38,7 +38,7 @@ dnx web
 docker rm -v [Container ID] (remove volume)
 ```
 
-```
+```bash
 + Docker MySQL
 docker run --name docker-mysql -p 33060:3306 -e MYSQL_ROOT_PASSWORD=nguyennghia -d mysql
 
