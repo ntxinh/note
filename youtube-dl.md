@@ -69,7 +69,14 @@ $ youtube-dl -o - BaW_jenozKc
 ```
 Username: nguoisechia.com@binnary.com
 Pass: nguoisechia
+
+Username: pome@topikt.com
+Pass: 123456
+Creadit Cards: 5465264305704545|06|2021|301
 ```
+
+- https://bin.isecurity.pw/
+- BIN: 5465264305xxxxx5 or 47721874xx38xx5x
 
 # Pluralsight
 ```
