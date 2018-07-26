@@ -75,8 +75,11 @@ Pass: 123456
 Creadit Cards: 5465264305704545|06|2021|301
 ```
 
-- https://bin.isecurity.pw/
-- BIN: 5465264305xxxxx5 or 47721874xx38xx5x
+- Register with https://temp-mail.org
+- Pick your plain: Pro plan - Start your free 7 days trial
+- Your billing cycle: Annual
+- Fill your payment information from https://bin.isecurity.pw/ (BIN: 5465264305xxxxx5 or 47721874xx38xx5x)
+
 
 # Pluralsight
 ```
