@@ -491,3 +491,7 @@ https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccc
 }
 ]
 ```
+
+# Other Lynda cookie: 
+- https://gist.github.com/sonlexqt/2468a92ed1abda086f75c2cfaff1592d
+- https://gist.github.com/sonlexqt/26063c1b1272528d9a7ecb3591c41a87
