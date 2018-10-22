@@ -136,6 +136,7 @@ Account 5:
 21172023853239		PIN: 5322
 
 Account 6:
+https://www.lynda.com/portal/sip?org=houstonlibrary.org&triedlogout=true
 User: 2236644
 Password: 12345678x@X
 ```
