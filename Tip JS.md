@@ -47,3 +47,38 @@ preg_replace( "/\r|\n/", "", $yourString);
 var a = {"a":"1"};
 var b = JSON.parse(JSON.stringify(a));
 ```
+
+# Key Up to next input
+
+```js
+onKeyUpEnter(currentControl: any, nextControl) {
+    switch (true) {
+      case currentControl instanceof MatSelect:
+        const matSelect = currentControl as MatSelect;
+        if (!matSelect.panelOpen) {
+          nextControl.focus();
+        }
+        break;
+      case currentControl instanceof MatAutocomplete:
+        const matAutocomplete = currentControl as MatAutocomplete;
+        if (!matAutocomplete.isOpen) {
+          nextControl.focus();
+        }
+        break;
+      case currentControl instanceof MatDatepicker:
+        const matDatepicker = currentControl as MatDatepicker<string>;
+        if (!matDatepicker.opened) {
+          nextControl.focus();
+        }
+        break;
+      default:
+        nextControl.focus();
+        break;
+    }
+}
+```
+
+```html
+<input #autoCompleteAccInput (keyup.enter)="globals.onKeyUpEnter(autoCompleteAccInput, autoCompleteInput)">
+<input #autoCompleteInput (keyup.enter)="globals.onKeyUpEnter(auto, txtBidName)">
+```
