@@ -19,34 +19,38 @@ var count_min = 1;
 $(document).ready(function(){
     console.log("Status: Page loaded.");
     setTimeout(function(){
-        waitForElement();
+        waitForRecaptcha();
     }, random(2000,4000));
     setInterval(function(){
         console.log("Status: Elapsed time " + count_min + " minutes");
         count_min = count_min + 1;
     }, 60000);
     setTimeout(function(){
-        var btnModal = $('.close-reveal-modal')[0];
-        if (btnModal) {
-            btnModal.click();
-            console.log("Status: Button CLOSE POPUP clicked.");
-        }
+        waitForModal();
     }, random(12000,18000));
     setInterval(function(){
-        $('#free_play_form_button').click();
-        console.log("Status: Button ROLL clicked again.");
+        waitForRecaptcha();
     }, random(3605000,3615000));
 });
 function random(min,max){
    return min + (max - min) * Math.random();
 }
-function waitForElement(){
+function waitForRecaptcha() {
     var v = grecaptcha.getResponse();
-    if(v.length == 0) {
-        setTimeout(waitForElement, 250);
+    if (v.length == 0) {
+        setTimeout(waitForRecaptcha, 250);
     } else {
         $('#free_play_form_button').click();
         console.log("Status: Button ROLL clicked.");
+    }
+}
+function waitForModal(callback) {
+    var btnModal = $('.close-reveal-modal')[0];
+    if (btnModal) {
+        btnModal.click();
+        console.log("Status: Button CLOSE POPUP clicked.");
+    } else {
+        setTimeout(waitForModal, 250);
     }
 }
 })();
