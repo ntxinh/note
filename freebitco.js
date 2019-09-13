@@ -15,7 +15,6 @@
     'use strict';
 
 var count_min = 1;
-var captchaResponse = '';
 var isCaptchaSolved = false;
 
 $(document).ready(function(){
@@ -41,13 +40,20 @@ function random(min,max){
    return min + (max - min) * Math.random();
 }
 function waitForRecaptcha() {
-    captchaResponse = grecaptcha.getResponse();
-    if (captchaResponse) {
-        isCaptchaSolved = true;
-        $('#free_play_form_button').click();
-        console.log("Status: Button ROLL clicked.");
+    // Check exist
+    var exist = $("div.g-recaptcha").length > 0;
+    if (exist) {
+        var solved1 = $("textarea#g-recaptcha-response").val().length > 0;
+        var solved2 = grecaptcha.getResponse();
+        if (solved1 && solved2) {
+            isCaptchaSolved = true;
+            $('#free_play_form_button').click();
+            console.log("Status: Button ROLL clicked.");
+        } else {
+            setTimeout(waitForRecaptcha, 250);
+        }
     } else {
-        setTimeout(waitForRecaptcha, 250);
+        isCaptchaSolved = true;
     }
 }
 function waitForModal(callback) {
