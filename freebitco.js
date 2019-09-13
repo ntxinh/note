@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Freebitco.in auto collector
-// @namespace    https://www.youtube.com/channel/UCoeYrdjYyuG_EN-_C7F6Nww
+// @namespace    http://www.youtube.com/c/nguyentrucxjnh
 // @version      1.0.0
 // @description  Autoclaim Freebitco.in
 // @description  Please use my Referal-Link https://freebitco.in/?r=25137207
