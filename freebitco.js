@@ -15,6 +15,7 @@
     'use strict';
 
 var count_min = 1;
+var captchaRes = '';
 
 $(document).ready(function(){
     console.log("Status: Page loaded.");
@@ -24,6 +25,9 @@ $(document).ready(function(){
     setInterval(function(){
         console.log("Status: Elapsed time " + count_min + " minutes");
         count_min = count_min + 1;
+        if (count_min > 10 && !captchaRes) {
+            location.reload();
+        }
     }, 60000);
     setTimeout(function(){
         waitForModal();
@@ -36,12 +40,12 @@ function random(min,max){
    return min + (max - min) * Math.random();
 }
 function waitForRecaptcha() {
-    var v = grecaptcha.getResponse();
-    if (v.length == 0) {
-        setTimeout(waitForRecaptcha, 250);
-    } else {
+    captchaRes = grecaptcha.getResponse();
+    if (captchaRes) {
         $('#free_play_form_button').click();
         console.log("Status: Button ROLL clicked.");
+    } else {
+        setTimeout(waitForRecaptcha, 250);
     }
 }
 function waitForModal(callback) {
