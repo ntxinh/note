@@ -76,4 +76,8 @@ youtube-dl --username USERNAME_OR_EMAIL --password PASSWORD --write-sub "https:/
 // Download:
 https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?utm_source=chrome-app-launcher-info-dialog
 youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.com/Java-tutorials/RESTful-Service-JAX-RS-2-0/574687-2.html --write-sub -o "/home/xinhnguyen/Videos/%(playlist)s/%(chapter_number)s. %(chapter)s/%(playlist_index)s. %(title)s.%(ext)s"
+
+
+# Powershell
+.\youtube-dl --download-archive archive.txt --cookies cookies.txt -o "D:\Downloads\Lynda\%(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f 1-720
 ```
