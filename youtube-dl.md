@@ -68,6 +68,9 @@ $ youtube-dl -o - BaW_jenozKc
 # Pluralsight
 ```
 youtube-dl --username USERNAME_OR_EMAIL --password PASSWORD --write-sub "https://app.pluralsight.com/library/courses/java-ee-7-fundamentals" -o "/home/xinhnguyen/Videos/%(playlist)s/%(chapter_number)s. %(chapter)s/%(playlist_index)s. %(title)s.%(ext)s"
+
+# Powershell
+.\youtube-dl --download-archive archive.txt --cookies cookies.txt -o "D:\Courses\how-git-works\%(playlist_index)s - %(title)s.%(ext)s" https://app.pluralsight.com/library/courses/how-git-works --playlist-start 1 --all-subs
 ```
 
 # Lynda
@@ -79,5 +82,5 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 
 
 # Powershell
-.\youtube-dl --download-archive archive.txt --cookies cookies.txt -o "D:\Downloads\Lynda\%(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f 1-720
+.\youtube-dl --download-archive archive.txt --cookies cookies.txt -o "D:\Courses\YourCourse\%(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f 1-720
 ```
