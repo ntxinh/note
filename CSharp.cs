@@ -21,4 +21,12 @@ if (res != null && res.Data is var existed && existed != null)
 {
     // do something
 }
+
+private IEnumerable<string> GetColumns()
+{
+    return typeof(T)
+            .GetProperties()
+            .Where(e => e.Name != "Id" && !e.PropertyType.GetTypeInfo().IsGenericType)
+            .Select(e => e.Name);
+}
 ```
