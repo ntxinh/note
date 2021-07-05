@@ -82,3 +82,15 @@ onKeyUpEnter(currentControl: any, nextControl) {
 <input #autoCompleteAccInput (keyup.enter)="globals.onKeyUpEnter(autoCompleteAccInput, autoCompleteInput)">
 <input #autoCompleteInput (keyup.enter)="globals.onKeyUpEnter(auto, txtBidName)">
 ```
+
+# Asynchronously delay JS until a condition is met
+
+```js
+(function wait() {
+    if ( chatroom.json ) {
+        chatroom.render();
+    } else {
+        setTimeout( wait, 500 );
+    }
+})();
+```
