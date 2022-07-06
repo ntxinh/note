@@ -84,3 +84,9 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 # Powershell
 .\youtube-dl --download-archive archive.txt --cookies cookies.txt -o "D:\Courses\YourCourse\%(playlist_index)s - %(title)s.%(ext)s" https:www.YourCourseURL.com --playlist-start 1 --all-subs -f 1-720
 ```
+
+# Download youtube playlist
+
+```ps
+.\yt-dlp.exe -o "E:/Movies/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+```
