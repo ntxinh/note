@@ -87,6 +87,8 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 
 # Download youtube playlist
 
+https://ffmpeg.org/download.html (Release Essential)
+
 ```ps
 .\yt-dlp.exe -o "E:/Movies/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 ```
