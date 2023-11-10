@@ -93,10 +93,20 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 
 ```ps
 .\yt-dlp.exe -o "E:/Movies/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+```
 
+- https://stackoverflow.com/questions/48422377/youtube-downloading-a-playlist-youtube-dl
+- https://github.com/ytdl-org/youtube-dl
+- https://github.com/yt-dlp/yt-dlp
+- https://github.com/yt-dlp/yt-dlp/wiki/Installation#using-the-release-binary
+
+```bash
 youtube-dl --ignore-errors --playlist-start 1 --playlist-end 3 --newline --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 # --playlist-reverse
 # --verbose
-```
 
-https://stackoverflow.com/questions/48422377/youtube-downloading-a-playlist-youtube-dl
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp  # Make executable
+
+yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --newline --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+```
