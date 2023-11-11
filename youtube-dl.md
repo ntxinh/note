@@ -87,6 +87,13 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 
 # Download youtube playlist
 
+- https://stackoverflow.com/questions/48422377/youtube-downloading-a-playlist-youtube-dl
+- https://github.com/ytdl-org/youtube-dl
+- https://github.com/yt-dlp/yt-dlp
+- https://github.com/yt-dlp/yt-dlp/wiki/Installation#using-the-release-binary
+- https://github.com/yt-dlp/yt-dlp#video-selection
+
+- Windows:
 - Download: https://ffmpeg.org/download.html (Release Essential)
 - Add to PATH: `D:\MovedUsers\PortableApps\ffmpeg-5.0.1-essentials_build\bin`
 - Test: `ffmpeg -version`
@@ -95,18 +102,21 @@ youtube-dl --cookies /home/xinhnguyen/Downloads/cookies.txt https://www.lynda.co
 .\yt-dlp.exe -o "E:/Movies/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 ```
 
-- https://stackoverflow.com/questions/48422377/youtube-downloading-a-playlist-youtube-dl
-- https://github.com/ytdl-org/youtube-dl
-- https://github.com/yt-dlp/yt-dlp
-- https://github.com/yt-dlp/yt-dlp/wiki/Installation#using-the-release-binary
+- Linux:
 
 ```bash
 youtube-dl --ignore-errors --playlist-start 1 --playlist-end 3 --newline --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 # --playlist-reverse
 # --verbose
 
+sudo apt install ffmpeg # >300MB
+ffmpeg -version
+
 sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
 sudo chmod a+rx /usr/local/bin/yt-dlp  # Make executable
+yt-dlp --version
+yt-dlp --update
 
-yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --newline --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/media/MyHddData/Media/Shows/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 ```
