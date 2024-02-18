@@ -122,4 +122,7 @@ yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --format "bestvideo[h
 
 # Download audio only
 yt-dlp --format "bestaudio/best[height<=1080]" "https://www.youtube.com/watch?v=c2NmyoXBXmE"
+
+# Download only one video
+yt-dlp "https://www.youtube.com/watch?v=l4WNrvVjiTw" 
 ```
