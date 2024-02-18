@@ -119,4 +119,7 @@ yt-dlp --update
 
 yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --output "/run/user/1000/gvfs/smb-share:server=raspberrypi.local,share=pinas/Media/Shows/DetectiveConan/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
 yt-dlp --ignore-errors --playlist-start 1 --playlist-end 3 --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --output "/media/MyHddData/Media/Shows/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLKvoOwlacRoLbAmCd_0HsADRTCD4oo0Mv"
+
+# Download audio only
+yt-dlp --format "bestaudio/best[height<=1080]" "https://www.youtube.com/watch?v=c2NmyoXBXmE"
 ```
